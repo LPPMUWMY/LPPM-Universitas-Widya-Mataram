@@ -1,0 +1,7 @@
+ Git config --global user.name "LPPMUWMY"
+  Git config --global user.email lppm.uwmy@gmail.com
+   Git init
+    Git add *
+     Git commit –m "versi 1.0.0"
+      Git pull origin master
+       Git push origin master 
